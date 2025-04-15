@@ -15,9 +15,10 @@ I feel really happy whenever I can share it, I have to This is all my 18 icons o
 
 ![picture](web.png)
 
-For the progress when I created those icons, I both used Pen Tools and Shape Tools, I drew the rectangle, triangle, cirle and also line to make almost icons. Moreover, while I used Pen Tools in order to  draw soft, flowing lines to create traditional garments and age-old mascots. 
-
+For the progress, I try to add the icons and sounds in this, the next step after it is wwriting code, I must write the code to make sure that my website is up and running. I wanted the overall design to feel powerful and energetic and that is the reason why I choose the colorful background for my icons. 
 # Use of illustrator
 
 ![picture](illustrator.png)
 ![picture](illustrator1.png)
+
+For the progress when I created those icons, I both used Pen Tools and Shape Tools, I drew the rectangle, triangle, cirle and also line to make almost icons. Moreover, while I used Pen Tools in order to  draw soft, flowing lines to create traditional garments and age-old mascots. In addition when I finished my drawing, I carefully selected the most visually appealing icons and colored them with tones that match the theme I chose.
