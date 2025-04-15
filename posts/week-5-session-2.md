@@ -9,13 +9,13 @@ allow_math: true
 
 ![picture](6.png)
 
-I feel really happy whenever I can share it, I have to This is all my 18 icons on the assignment 2, all of this were about legacy, culture and tradition in Viet Nam.
+I felt really happy whenever I could share it, this is all my 18 icons on the assignment 2, all of this were about legacy, culture and tradition in Viet Nam.
 
 # Web design
 
 ![picture](web.png)
 
-For the progress, I try to add the icons and sounds in this, the next step after it is wwriting code, I must write the code to make sure that my website is up and running. I wanted the overall design to feel powerful and energetic and that is the reason why I choose the colorful background for my icons. 
+For the progress, I tried to add the icons and sounds in this, the next step after it was wwriting code, I must write the code to make sure that my website is up and running. I wanted the overall design to feel powerful and energetic and that was the reason why I chose the colorful background for my icons. 
 # Use of illustrator
 
 ![picture](illustrator.png)

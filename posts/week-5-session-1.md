@@ -13,7 +13,7 @@ I selected two Edward Hopper paintings—”Light House Hill” and “Early Sun
 
 ![picture](7.jpg)
 
-For "Light House Hill" I imported the image and traced the house, the observatory's figures and also the field with the Pen Tool, I adjusting anchot point to keep the stability of the house and observatory. I trace the swaying of the field and the coolness of the sky to ensure that the painting’s sense of tranquility and comfort was preserved. The Pen Tool was challenging due to its precision demands, but thanks to that, it creates images that feel soft and warm to us.
+For "Light House Hill" I imported the image and traced the house, the observatory's figures and also the field with the Pen Tool, I adjusted anchot point to keep the stability of the house and observatory. I traced the swaying of the field and the coolness of the sky to ensure that the painting’s sense of tranquility and comfort was preserved. The Pen Tool was challenging due to its precision demands, but thanks to that, it creates images that feel soft and warm to us.
 
 **Early Sunday**
 
@@ -25,4 +25,4 @@ For "Light House Hill" I imported the image and traced the house, the observator
 
 ![picture](5.png)
 
-From all the color schemes, monochromatic color is the one that I like the most because the prompt I choose is "legacy". Therefore, I need the colors look colorful like yellow and green so it can make my icon bold and majestic, these icons are designed so that when people look at them, they can understand the value of culture and heritage, while still preserving a sense of tradition. The other two schemes didn’t work well: the analogus colors are quite uniform, rather muted and dark, creating a heavy feeling that lacks the energy I was aiming for, while the complementary and triadic colors were tô bright, lacking the balance between those icons.
+From all the color schemes, monochromatic color was the one that I liked the most because the prompt I chose is "legacy". Therefore, I needed the colors look colorful like yellow and green so it cold make my icon bold and majestic, these icons were designed so that when people looked at them, they could understand the value of culture and heritage, while still preserving a sense of tradition. The other two schemes didn’t work well: the analogus colors were quite uniform, rather muted and dark, creating a heavy feeling that lacks the energy I was aiming for, while the complementary and triadic colors were too right, lacking the balance between those icons.
