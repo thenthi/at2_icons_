@@ -32,4 +32,4 @@ https://cdn.freesound.org/sounds/171/171955-72872124-9421-4245-9629-740d9248ff3a
 
 https://cdn.freesound.org/sounds/424/424662-616607fb-b1eb-4ce8-9f8e-53d60794fd59?filename=424662__sound_bar_kk__acoustic-drum-kick.wav
 
-This is the link of the sounds that I use in my Assignment 2.
+This is the link of the sounds that I use in my Assignment 2. The sounds I used are all related to the icons I selected. However, some sounds were quite difficult to find, so I tried to replace them with the most suitable alternatives. I will work on improving this in future assignments.
